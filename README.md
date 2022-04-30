@@ -1,4 +1,4 @@
-*GalysWarwe*
+*GalysWare*
 
 ---How to use this---
 
