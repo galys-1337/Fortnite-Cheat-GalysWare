@@ -8,6 +8,6 @@ ________________________________________________________________________________
 
 Run the Mapper.exe I made , It will auto download the driver and map the driver for you So just run mapper.exe
 
-Once in Fortnite open tomjepica.bat when you are in lobby
+Once in Fortnite open "tomjepica.bat" when you are in lobby
 And Enjoy
 ______________________________________________________________________________________________________________
